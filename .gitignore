@@ -5,3 +5,5 @@
 *.jar
 *.zip
 .idea
+.out
+*.txt
